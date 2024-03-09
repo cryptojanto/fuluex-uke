@@ -1,0 +1,26 @@
+{
+  "name": "fuluex-uke",
+  "version": "1.0.3",
+  "description": "The library helps you calculate quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cryptojanto/fuluex-uke"
+  },
+  "homepage": "https://twitter.com/YurriTr4n",
+  "keywords": [
+    "sum",
+    "add",
+    "Total",
+    "totality"
+  ],
+  "author": "YurriTr4n",
+  "license": "MIT"
+}
